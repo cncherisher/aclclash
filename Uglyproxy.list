@@ -1,0 +1,6 @@
+# 自定义代理列表
+
+# MyList
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn

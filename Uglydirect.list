@@ -1,0 +1,9 @@
+# 自定义直连列表
+
+# 订阅更新域名
+DOMAIN,dwz.mrerobot.com
+DOMAIN,psub.mrerobot.com
+# IPAD b站奇怪的连接ip
+IP-CIDR,88.88.88.88/32,no-resolve
+# 浏览器主页
+DOMAIN-SUFFIX,0x3.com
